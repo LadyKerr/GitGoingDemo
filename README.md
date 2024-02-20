@@ -3,19 +3,24 @@ GitGoing is a beginner-friendly project focused on tracking progress and learnin
 
 ## Getting Started 🛠️
 
-You will need to have git installed on your local machine. You can download it [here](https://git-scm.com/downloads).
+1. You will need to have git installed on your local machine. You can download it [here](https://git-scm.com/downloads).
 
-Once you have git installed, you will need to configure git. You can do this by running the following commands in your terminal.
+2. Once you have git installed, you will need to configure git. You can do this by running the following commands in your terminal.
 
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "Your Email"
 ```
 
-Then, start by cloning the repository to your local machine.
+3. Fork the repository by clicking the "Fork" button in the upper right corner of the repository page. 
+
+> 💡 This will create a copy of the repository in your GitHub account.
+
+
+4. Then, start by cloning the forked repository to your local machine.
     
 ```bash
-    git clone https://github.com/LadyKerr/GitGoing.git
+    git clone https://github.com/YourHandle/GitGoing.git
  ```
 
 
